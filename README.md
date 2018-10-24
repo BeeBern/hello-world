@@ -1,3 +1,3 @@
 # hello-world
-just a trial to use GitHub
+A trial to learn GitHub
 GitHub is a good tool
